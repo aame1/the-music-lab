@@ -1,10 +1,11 @@
 # Development Strategy
 
-> `name-of-project`
+> `the-music-lab`
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+A simple website dedicated to those who want to learn some interesting fact in the history of music.
+
+- people that are passionate about music.
+- it's an original approach where I will bring a puzzle to solve.
 
 ## Wireframe
 
