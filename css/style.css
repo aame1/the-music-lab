@@ -109,7 +109,7 @@ color, because if it was we couldn't see anything :) */
     padding: 10px;
     border: 1px ridge transparent;
     background: green;
-    border-radius: .25em;
+    border-radius: .50em;
 
 }
 
