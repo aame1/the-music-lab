@@ -12,9 +12,43 @@ body {
 /* Header */
 
 header {
-    background:rgb(68, 63, 63);
-    color:#ffffff;
-    text-decoration: none;
+    background:lightslategrey;
+    color: white;
     font-size: 16px;
+    font-weight: bold;
+    padding: 60px;
+    border-bottom: 3px solid rgb(12, 11, 11);
 
 }
+
+header .container #website-title {
+    float: left;
+}
+
+#website-title {
+    margin-bottom: 60px;
+    margin-top: -30px;
+}
+
+
+header li {
+    display: inline;
+    float: right;
+    padding: 0 20px 0 20px;
+
+}
+
+li a {
+    color: rgb(2, 2, 2);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight:bold;
+
+}
+
+li a:hover {
+    color:white;
+    text-decoration:none;
+
+}
+
