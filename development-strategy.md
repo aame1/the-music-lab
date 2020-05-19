@@ -64,6 +64,10 @@ Added meta tags, title, link rel to the stylesheet folder.
 
 Still nothing at this point.
 
+## 4. User Story: Adding a distinct header
+
+__As a visitor, I want to add the semantic element <header> to the page.__
+
 
 
 ## Finishing Touches
