@@ -118,7 +118,6 @@ color, because if it was we couldn't see anything :) */
     border: 0.5px solid lightslategray;
 }
 
-<<<<<<< HEAD
 /* Section 3 branch */
 
 #boxes .box {
@@ -144,7 +143,6 @@ footer {
 
 }
 
-=======
 
 
 #lyrics {
@@ -156,4 +154,3 @@ footer {
     text-decoration: none;
     color: red;
 }
->>>>>>> section-2
