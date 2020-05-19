@@ -12,12 +12,13 @@ body {
 /* Header */
 
 header {
-    background:lightslategrey;
+    background:rgb(67, 72, 77);
     color: white;
     font-size: 16px;
     font-weight: bold;
     padding: 60px;
-    border-bottom: 3px solid rgb(12, 11, 11);
+    border-bottom: 3px solid rgb(14, 82, 146);
+    border-radius: 0.50em;
 
 }
 
@@ -96,10 +97,11 @@ color, because if it was we couldn't see anything :) */
 #submit-answers {
 
 
-    background:lightslategrey;
+    background:rgb(67, 72, 77);
     padding: 20px;
     color:#ffffff;
-    border-bottom: 2px solid red;
+    border-bottom: 30px solid rgb(8, 89, 156);
+    border-radius: 0.50em;
     
 }
 
@@ -163,11 +165,12 @@ footer {
 
 article#main-col {
     float: left;
-    width:60%;
+    width:40%;
+    padding-left: 50px;
 }
 
  .dark {
-    padding:15px;
+    padding:30px;
     background:#35424a;
     margin-top:10px;
     margin-bottom:10px;
@@ -176,7 +179,7 @@ article#main-col {
 
 aside#sidebar {
     float:right;
-    width:30%;
-    margin-top:10px;
-    padding-right: 25px;
+    width:50%;
+    margin-top:100px;
+
 }
