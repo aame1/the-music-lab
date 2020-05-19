@@ -52,3 +52,27 @@ li a:hover {
 
 }
 
+
+#broken-jukebox {
+
+    min-height: 250px;
+    background:url('../img/Dark-side-of-the-moon.png');
+    text-align:center;
+    color:#ffffff;
+    position:relative;
+    border-top: 2px solid red;
+
+}
+
+#broken-jukebox p{
+    font-size: 30px;
+}
+
+#gliese, #who {
+    color: red;
+    font-weight: bold;
+
+
+}
+
+
