@@ -163,7 +163,7 @@ footer {
 
 article#main-col {
     float: left;
-    width:65%;
+    width:60%;
 }
 
  .dark {
@@ -172,4 +172,11 @@ article#main-col {
     margin-top:10px;
     margin-bottom:10px;
     color: white;
+}
+
+aside#sidebar {
+    float:right;
+    width:30%;
+    margin-top:10px;
+    padding-right: 25px;
 }
