@@ -23,23 +23,23 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User Story: Adding the files and folders
 
-__full user story description__
+__As a frontend developer, I will already add the needed files and folders that I'm going to work with__
 
 ### Repo
 
-what branch(es) did you work on?
+I created a branch called files-folders and put them in their respective directories.
 
 ### HTML
 
-what did you change in the HTML and why?
+None. Because i didn't make any changes. 
 
 ### CSS
 
-what did you change in the CSS and why?
+None. Because i didn't make any changes. 
 
-## 2. ...
+## 2. 
 
 ...
 
