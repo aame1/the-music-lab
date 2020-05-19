@@ -70,7 +70,7 @@ __As a visitor, I want to add the semantic element <header> to the page.__
 
 ## Repo
 
-I added a branch called `header` and fetched the <nav> files from branch `files-folders`.
+I added a branch called `header` and fetched the `<nav>` files from branch `files-folders`.
 
 ### HTML 
 
@@ -86,14 +86,65 @@ it later on for the global aspect of the page.
 
 __As a visitor, I want to see a proper introduction to the web page, to understand what is it about__
 
+### Repo
+
+Worked on branch `section-1`
+
 ### HTML 
 
 I added a small introduction with the purpose of the website by using a separate section.<br>
-I also added a <div> tag which I might delete because it may not affect the overall looks and feels of the page.
+
+I didn't see the need of making a `<div>` for a container.
 
 ### CSS 
 
 Added height and padding-bottom so that the section below is "glued" together with the first section. Other styles added for the looks and feels.
+
+6. ## User Story: Interaction with the visitor
+
+__As a visitor, I wanted to interact with the website__
+
+### Repo 
+
+I created a `section-2` branch.
+
+### HTML
+
+I added a simple Pull Request button, so that the user can submit its solution onto the github webpage. 
+
+### CSS
+
+- Added an id #submit-answers to the whole section
+- Added a #pull-request id for the `<a>` tag with hovering options. 
+
+7. ## User Story: Adding the Hints
+
+__As a visitor, I want to see a picture connected to the "puzzle" in the main page__
+
+### Repo
+
+I created a `section 3` branch and I also made some changes on `section-1` because I had issues with the padding. In between the two sections a small space that I neeeded to fix by adding a `{padding-bottom:10px}` 
+
+### HTML 
+
+- I added another section with a particular id to only affect this section.
+- I added the .box class to make it more controllable. 
+
+### CSS 
+
+- Added styling to the box. 
+- Added padding to match it with `section-1` 
+
+
+## 8. User Story:  As a visitor, I want to see who made this page 
+
+## Repo
+
+__ Added a footer tag that points to my github profile and a HackYourFuture website. 
+
+
+## 9 User Story: I want the 
+
 
 
 
