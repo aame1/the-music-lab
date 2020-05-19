@@ -91,6 +91,10 @@ __As a visitor, I want to see a proper introduction to the web page, to understa
 I added a small introduction with the purpose of the website by using a separate section.<br>
 I also added a <div> tag which I might delete because it may not affect the overall looks and feels of the page.
 
+### CSS 
+
+Added height and padding-bottom so that the section below is "glued" together with the first section. Other styles added for the looks and feels.
+
 
 
 ## Finishing Touches
