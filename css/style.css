@@ -145,12 +145,3 @@ footer {
 
 
 
-#lyrics {
-    text-decoration: none;
-    color:white;
-}
-
-#lyrics:hover {
-    text-decoration: none;
-    color: red;
-}
