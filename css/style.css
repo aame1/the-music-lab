@@ -133,3 +133,14 @@ color, because if it was we couldn't see anything :) */
     border: 0.5px solid lightslategray;
 }
 
+
+
+#lyrics {
+    text-decoration: none;
+    color:white;
+}
+
+#lyrics:hover {
+    text-decoration: none;
+    color: red;
+}
