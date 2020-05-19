@@ -106,3 +106,30 @@ color, because if it was we couldn't see anything :) */
     font-weight: bold;
 }
 
+
+/* section-2 branch*/
+
+#submit-answers {
+
+    background:lightslategrey;
+    padding: 20px;
+    color:#ffffff;
+    border-bottom: 2px solid red;
+    
+}
+
+#pull-request {
+    font-size: 20px;
+    text-decoration: none;
+    color:white;
+    padding: 10px;
+    border: 1px ridge transparent;
+    background: green;
+    border-radius: .25em;
+
+}
+
+#pull-request:hover{
+    border: 0.5px solid lightslategray;
+}
+
