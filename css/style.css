@@ -53,6 +53,9 @@ li a:hover {
 }
 
 
+/* Section 1 branch*/
+
+
 #broken-jukebox {
 
     min-height: 250px;
@@ -68,11 +71,38 @@ li a:hover {
     font-size: 30px;
 }
 
-#gliese, #who {
-    color: red;
-    font-weight: bold;
 
+#broken-jukebox {
+    color: white;
+    text-decoration: none;
+}
+
+
+.gliese {
+    color: white;
+    text-decoration: none;
+}
+
+a #scrobbling {
+    color:white;
+    text-decoration: none;
 
 }
 
+a .gliese {
+    text-decoration: none;
+    color:white;
+}
+
+a:hover {
+    color: red;
+}
+
+/* here i created this id just to distinguish the 
+color, because if it was we couldn't see anything :) */
+
+#who {
+    color: red;
+    font-weight: bold;
+}
 
