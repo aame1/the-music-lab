@@ -126,6 +126,9 @@ color, because if it was we couldn't see anything :) */
     width: 30%;
     padding:10px;
 
+#lyrics {
+    text-decoration: none;
+    color:white;
 }
 
 #boxes .box img {
