@@ -133,3 +133,18 @@ color, because if it was we couldn't see anything :) */
     border: 0.5px solid lightslategray;
 }
 
+/* Section 3 branch */
+
+#boxes .box {
+    float: left;
+    text-align: center;
+    width: 30%;
+    padding:10px;
+
+}
+
+#boxes .box img {
+    width:200px;
+}
+
+
