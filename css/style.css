@@ -148,3 +148,12 @@ color, because if it was we couldn't see anything :) */
 }
 
 
+footer {
+    padding:20px;
+    margin-top:350px;
+    color:#ffffff;
+    background-color: lightslategrey;
+        text-align:center;
+
+}
+
