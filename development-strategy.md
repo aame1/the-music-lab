@@ -68,6 +68,28 @@ Still nothing at this point.
 
 __As a visitor, I want to add the semantic element <header> to the page.__
 
+## Repo
+
+I added a branch called `header` and fetched the <nav> files from branch `files-folders`.
+
+### HTML 
+
+- Created section called header according to the semantic and the wireframe. 
+- added divs and nav tags with subpages.
+
+### CSS
+
+Added css for all the header section and didn't intervene yet in the .container div class because I might need <br>
+it later on for the global aspect of the page.
+
+## 5. User-Story: Adding a section to the page 
+
+__As a visitor, I want to see a proper introduction to the web page, to understand what is it about__
+
+### HTML 
+
+I added 
+
 
 
 ## Finishing Touches
