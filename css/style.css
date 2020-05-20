@@ -143,10 +143,11 @@ color, because if it was we couldn't see anything :) */
 
 footer {
     padding:20px;
-    margin-top:350px;
+    margin-top:600px;
     color:#ffffff;
-    background-color: lightslategrey;
-        text-align:center;
+    background-color:rgb(8, 89, 156);
+    text-align:center;
+    border-radius:0.50em;
 
 }
 
