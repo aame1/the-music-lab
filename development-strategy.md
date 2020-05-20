@@ -161,7 +161,7 @@ __As a user, I would like to check other pages of this website__
 On `adjustments` repo, i changed the look and feel of the website, and when I copied the page from index.html, I just used the same styles from index.html
 
 
-10. User Story: As a visitor, i want a better presentation of the article sections 
+## 10. User Story: As a visitor, i want a better presentation of the article sections 
 
 ## Repo 
 
@@ -175,7 +175,7 @@ I created the section first then the articles with a h2 (mandatory to pass the v
 
 I added a border-radius to distinct the different paragraphs of the page and also, I created an `<aside>` tag separated from the rest.
 
-11. ## User Story: Interacting the web developer 
+ ## 11. User Story: Interacting the web developer 
 
 __As a visitor, i want to interact with the creator of the website__
 
@@ -183,6 +183,23 @@ __As a visitor, i want to interact with the creator of the website__
 
 - Added a `subscription-email` and on each page I just added a "Pull Request" button. :). 
 - For index page the Pull request was worked on `section-2` and for puzzle.html it was worked on `puzzle-section.`
+
+ ## 12. Checking for errors 
+
+__As a web developer, I want to make sure there are no errors on html and css validators.__
+
+
+## Repo 
+
+In `adjustments` and `final-adjustments` i needed to adapt the path of ..\evaluation.js to the pages, because otherwise it won't be taken in account. 
+
+### HTML 
+
+I added missing ending tags on sections, aside and added missing <h>'s
+
+### CSS 
+
+No adjustments made since the validator passed. 
 
 
 ## Finishing Touches
