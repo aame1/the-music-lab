@@ -11,7 +11,7 @@ A simple website dedicated to those who want to learn some interesting fact in t
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe](./wireframe.gif)
+![https://github.com/aame1/the-music-lab/blob/master/wireframe.gif](./wireframe.gif)
 
 ## 0. Set-Up
 
