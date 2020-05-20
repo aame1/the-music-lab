@@ -181,8 +181,8 @@ __As a visitor, i want to interact with the creator of the website__
 
 ## Repo
 
-- Added a `subscription-email`
-- 
+- Added a `subscription-email` and on each page I just added a "Pull Request" button. :). 
+- For index page the Pull request was worked on `section-2` and for puzzle.html it was worked on `puzzle-section.`
 
 
 ## Finishing Touches
