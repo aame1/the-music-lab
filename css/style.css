@@ -150,7 +150,7 @@ color, because if it was we couldn't see anything :) */
 
 footer {
     padding:20px;
-    margin-top:600px;
+    margin-top:700px;
     color:#ffffff;
     background-color:rgb(8, 89, 156);
     text-align:center;
@@ -235,7 +235,12 @@ aside#sidebar {
     border: transparent;
 }
 
-#newsletter form{
 
+/* Global */
 
+li {
+    list-style-type: none;
+    text-align: center;
 }
+
+/* footer learnmore */
