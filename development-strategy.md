@@ -140,12 +140,49 @@ I created a `section 3` branch and I also made some changes on `section-1` becau
 
 ## Repo
 
-__ Added a footer tag that points to my github profile and a HackYourFuture website. 
+__ Added a footer tag on every page (`footer`, `adjustments` and `footer-learnmore` that points to my github profile and a HackYourFuture website. 
 
 
-## 9 User Story: I want the 
+## 9 User Story: Navigation to different tabs
+
+__As a user, I would like to check other pages of this website__
+
+### Repo: 
+
+- Added repo `puzzle-heads`, `puzzle-section` + for final adjustments, i created a repo called `adjustments`
+
+### HTML 
+
+- Copied heads and first section from the index.html because it was similar. 
 
 
+### CSS 
+
+On `adjustments` repo, i changed the look and feel of the website, and when I copied the page from index.html, I just used the same styles from index.html
+
+
+10. User Story: As a visitor, i want a better presentation of the article sections 
+
+## Repo 
+
+Created repo `section-article` and also made some small adjustments on repo `adjustments`. 
+
+### HTML 
+
+I created the section first then the articles with a h2 (mandatory to pass the validator w3 check)
+
+### CSS 
+
+I added a border-radius to distinct the different paragraphs of the page and also, I created an `<aside>` tag separated from the rest.
+
+11. ## User Story: Interacting the web developer 
+
+__As a visitor, i want to interact with the creator of the website__
+
+## Repo
+
+- Added a `subscription-email`
+- 
 
 
 ## Finishing Touches
